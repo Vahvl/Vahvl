@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gh-heat.anishroy.com/api/Vahvl/svg?theme=purple&darkMode=true" alt="GitHub contribution graph" />
+  <img src="https://gh-heat.anishroy.com/api/Vahvl/svg?darkMode=true" alt="GitHub contribution graph" />
 </p>
 
 <p align="center">
